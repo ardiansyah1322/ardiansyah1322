@@ -4,10 +4,8 @@ Welcome to my GitHub profile! I'm a Student, passionate about CentOS.
 
 ## 🌱 What I'm currently working on
 
-- 🔭 I’m currently working on [project name or a brief description]
-- 🌱 I’m currently learning [technology or skill you're learning]
-- 🤔 I’m looking for help with [area you need help with, if any]
-- 💬 Ask me about [topics you are comfortable answering questions about]
+- 🔭 I’m currently working on [portofolio]
+- 🌱 I’m currently learning [Cloud def&ops]
 
 ## 💼 My Skills
 
@@ -22,16 +20,7 @@ Welcome to my GitHub profile! I'm a Student, passionate about CentOS.
 
 ## 🌍 Connect with me
 
-- LinkedIn: [your LinkedIn profile](https://www.linkedin.com/in/your-profile)
-- Portfolio: [your website](https://yourwebsite.com)
-- Twitter: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Title of Your Blog Post](link to your blog)
-- [Another Blog Post Title](link to another blog)
-<!-- BLOG-POST-LIST:END -->
+- Instagram: https://www.instagram.com/kvzree?igsh=aTZ4d253Z3prbmd5&utm_source=qr
 
 ## 🤝 Contributions
 
@@ -39,7 +28,7 @@ I'm open to collaborating on exciting projects! Feel free to reach out to me if 
 
 ## 📫 How to Reach Me
 
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- Email: pffterya132@gmail.com
 
 ## ❤️ Fun Facts
 
